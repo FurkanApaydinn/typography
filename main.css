@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles&family=Inconsolata&family=Noto+Sans&display=swap");
+h1,
+h2 {
+  font-family: "Fuzzy Bubbles", cursive;
+}
+
+body {
+  font-family: "Inconsolata", monospace;
+}
+p {
+  font-family: "Courier New", Courier, monospace;
+}
